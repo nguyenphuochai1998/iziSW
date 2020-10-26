@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1020959710331",
+    "firebase_url": "https://izisalonapp.firebaseio.com",
+    "project_id": "izisalonapp",
+    "storage_bucket": "izisalonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020959710331:android:0f0fbcfe2709dab692d6de",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_hair_aka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020959710331-frflh34cmd68p2dnsjtdt6b5h7u4psgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rrBoaqXxWdaHsIHQbcNlw2eZLeCYCoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020959710331-frflh34cmd68p2dnsjtdt6b5h7u4psgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020959710331-c3ga03nn6pi7vse0rr58d0o383v7khss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sdfsdf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020959710331:android:5ecd335d4dda182592d6de",
+        "android_client_info": {
+          "package_name": "izi.software.izisalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020959710331-97djg6mq29trtrjn464efk6ro1ahdua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "izi.software.izisalon",
+            "certificate_hash": "5abb6992633da766981c66b9f6665dc5a9e41c24"
+          }
+        },
+        {
+          "client_id": "1020959710331-frflh34cmd68p2dnsjtdt6b5h7u4psgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rrBoaqXxWdaHsIHQbcNlw2eZLeCYCoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020959710331-frflh34cmd68p2dnsjtdt6b5h7u4psgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020959710331-c3ga03nn6pi7vse0rr58d0o383v7khss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sdfsdf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
